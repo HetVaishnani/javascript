@@ -1,7 +1,10 @@
+let numbers = [1, 2, 3]
+
 function logSquares(arr) {
-    arr.forEach(element => {
-        console.log(element * element)
+    let data = arr.forEach((element, index) => {
+        console.log(element * element);
     });
+    return data
 }
 
-logSquares([1, 2, 3])
+logSquares(numbers)
