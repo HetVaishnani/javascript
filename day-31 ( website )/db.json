@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "eda8",
+      "username": "hetvaishnani",
+      "email": "hetvaishnani07@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "e1e5",
+      "username": "het",
+      "email": "hetvaishnani0709@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "99a1",
+      "username": "hetpatel",
+      "email": "hetpatel@gmail.com",
+      "password": "789456"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "image": "http:////cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1723875556.jpg",
+      "name": "Everherb Karela Jamun Juice",
+      "price": 207.46,
+      "realPrice": "299.00"
+    },
+    {
+      "id": "2",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/V68813/everherb-diabetic-care-juice-13-potent-herbs-healthy-blood-sugar-management-1-litre-bottle-2-1724131965.jpg",
+      "name": "Everherb Diabetic Care Juice-13 Potent Herbs - Healthy Blood Sugar Management - 1 Litre Bottle",
+      "price": 350.46,
+      "realPrice": "649.00"
+    },
+    {
+      "id": "3",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1723874827.jpg",
+      "name": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair - 1 Litre Bottle",
+      "price": 199.05,
+      "realPrice": "399.00"
+    },
+    {
+      "id": "4",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/D92359/everherb-by-pharmeasy-amla-juice-rich-in-vitamin-c-natural-immunity-booster-1-litre-bottle-2-1723875431.jpg",
+      "name": "Everherb (By Pharmeasy) Amla Juice-Rich In Vitamin C-Natural Immunity Booster - 1 Litre Bottle",
+      "price": 199.05,
+      "realPrice": "399.00"
+    },
+    {
+      "id": "5",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K78780/pharmeasy-pill-box-organizer-2-1718186066.jpg",
+      "name": "Pharmeasy Pill Box Organizer",
+      "price": 350.46,
+      "realPrice": "649.00"
+    },
+    {
+      "id": "6",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K40120/everherb-by-pharmeasy-pain-relief-oil-blend-of-8-powerful-herbal-ingredients-100-ml-2-1698645591.jpg",
+      "name": "Everherb (By Pharmeasy) Pain Relief Oil - Blend Of 8 Powerful Herbal Ingredients - 100 Ml",
+      "price": 350.46,
+      "realPrice": "649.00"
+    },
+    {
+      "id": "7",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/U97974/everherb-giloy-tulsi-juice-strengthens-body-defence-system-natural-immunity-booster-1-litre-2-1723876517.jpg",
+      "name": "Everherb Giloy Tulsi Juice - Strengthens Body Defence System - Natural Immunity Booster - 1 Litre",
+      "price": 350.46,
+      "realPrice": "649.00"
+    },
+    {
+      "id": "8",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/C67999/good-skyn-clinic-fortified-with-redensyl-procapil-hair-growth-serum-60-ml-6.1-1724399080.jpg",
+      "name": "Good Skyn Clinic - Fortified With Redensyl,Procapil Hair Growth Serum- 60 Ml",
+      "price": 449.5,
+      "realPrice": "899.00"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1723874827.jpg",
+      "name": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair - 1 Litre Bottle",
+      "price": 199.05,
+      "realPrice": "399.00"
+    },
+    {
+      "id": "1",
+      "image": "http:////cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1723875556.jpg",
+      "name": "Everherb Karela Jamun Juice",
+      "price": 207.46,
+      "realPrice": "299.00"
+    },
+    {
+      "id": "2",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/V68813/everherb-diabetic-care-juice-13-potent-herbs-healthy-blood-sugar-management-1-litre-bottle-2-1724131965.jpg",
+      "name": "Everherb Diabetic Care Juice-13 Potent Herbs - Healthy Blood Sugar Management - 1 Litre Bottle",
+      "price": 350.46,
+      "realPrice": "649.00"
+    },
+    {
+      "id": "2",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/V68813/everherb-diabetic-care-juice-13-potent-herbs-healthy-blood-sugar-management-1-litre-bottle-2-1724131965.jpg",
+      "name": "Everherb Diabetic Care Juice-13 Potent Herbs - Healthy Blood Sugar Management - 1 Litre Bottle",
+      "price": 350.46,
+      "realPrice": "649.00"
+    },
+    {
+      "id": "3",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1723874827.jpg",
+      "name": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair - 1 Litre Bottle",
+      "price": 199.05,
+      "realPrice": "399.00"
+    },
+    {
+      "id": "1",
+      "image": "http:////cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1723875556.jpg",
+      "name": "Everherb Karela Jamun Juice",
+      "price": 207.46,
+      "realPrice": "299.00"
+    },
+    {
+      "id": "1",
+      "image": "http:////cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1723875556.jpg",
+      "name": "Everherb Karela Jamun Juice",
+      "price": 207.46,
+      "realPrice": "299.00"
+    },
+    {
+      "id": "6",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/K40120/everherb-by-pharmeasy-pain-relief-oil-blend-of-8-powerful-herbal-ingredients-100-ml-2-1698645591.jpg",
+      "name": "Everherb (By Pharmeasy) Pain Relief Oil - Blend Of 8 Powerful Herbal Ingredients - 100 Ml",
+      "price": 350.46,
+      "realPrice": "649.00"
+    }
+  ]
+}
